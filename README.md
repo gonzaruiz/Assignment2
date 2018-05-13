@@ -1,7 +1,10 @@
 # Assignment_2.3
-Assignments Phyton-2
-Place to upload the Assignment of the Python-2
-In different branches
+Write a Python program to reversea world after accepting the input from user.
+
+Sample Output:
+
+Input word: AcadGild
+Output: dilGdacA
 
 
 
